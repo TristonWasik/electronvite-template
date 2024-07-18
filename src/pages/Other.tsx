@@ -1,3 +1,3 @@
 export default function Other() {
-  return <h1>Other Page</h1>;
+  return <h1 className="text-xl text-white">Other Page</h1>;
 }
