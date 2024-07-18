@@ -7,6 +7,7 @@ I created this template as a quick start for desktop electron apps.
 1. React
 2. Typescript
 3. Tailwindcss
+4. React-Router-Dom
 
 ## Instal & Setup
 

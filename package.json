@@ -1,6 +1,6 @@
 {
-  "name": "snmp-app",
-  "productName": "snmp-app",
+  "name": "electronvite-template",
+  "productName": "electronvite-template",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".vite/build/main.js",
