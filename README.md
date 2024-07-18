@@ -31,5 +31,5 @@ npm run start
 
 ## Documentation & Links
 
-- (Electron Forge)[https://www.electronforge.io/]
-- (My Portfolio)[https://tristonwasik.com]
+- [Electron Forge](https://www.electronforge.io/)
+- [My Portfolio](https://tristonwasik.com)
